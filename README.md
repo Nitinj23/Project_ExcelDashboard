@@ -1,1 +1,6 @@
 # Project_ExcelDashboard
+
+
+The primary decision to be made revolves around understanding and optimizing sales performance for the coffee company. Specifically, stakeholders need insights into sales trends, customer preferences, and regional performance to make informed decisions regarding product offerings, marketing strategies, and resource allocation.
+The primary focus of the dashboard is to provide comprehensive insights into coffee sales performance by visualizing key metrics such as total sales by coffee type, sales by country, and top customer analysis. The dashboard aims to facilitate strategic decision-making by presenting actionable insights derived from the analysis of sales data.
+The methodology used in developing the dashboard involves data integration from multiple sources (customer, product, and order tabs), analysis using Pivot Tables, and visualization through line charts. Index, Match, and If formulas are employed for data retrieval and clarity, while slicers are incorporated for interactive exploration, enabling users to focus on specific periods, product attributes, and customer segments. Overall, the methodology prioritizes usability, clarity, and interactivity to effectively communicate insights and support decision-making processes.
